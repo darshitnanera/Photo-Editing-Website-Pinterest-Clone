@@ -1,0 +1,14 @@
+{
+  "name": "darshit's-api",
+  "main": "idex.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node --watch --env-file=.env index.js"
+  },
+  "dependencies": {
+    "bcryptjs": "^3.0.2",
+    "express": "^5.1.0",
+    "imagekitio-react": "^4.3.0",
+    "mongoose": "^8.18.0"
+  }
+}
